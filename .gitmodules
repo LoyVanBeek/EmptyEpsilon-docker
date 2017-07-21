@@ -1,6 +1,6 @@
 [submodule "SeriousProton"]
 	path = SeriousProton
-	url = ./SeriousProton
+	url = https://github.com/daid/SeriousProton.git
 [submodule "EmptyEpsilon"]
 	path = EmptyEpsilon
-	url = ./EmptyEpsilon
+	url = https://github.com/daid/EmptyEpsilon.git
